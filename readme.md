@@ -1,8 +1,8 @@
 
 <h1>Меня зовут Александр</h1>
 
-- <h2>Форонтенд разработчик <img src="https://img.icons8.com/ios-glyphs/20/000000/developer.png"/></h2>
-- second
+- <h3>Форонтенд разработчик <img src="https://img.icons8.com/ios-glyphs/20/000000/developer.png"/></h3>
+- 
 - third
 
 
